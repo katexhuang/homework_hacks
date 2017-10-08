@@ -1,3 +1,8 @@
+'''
+User program that takes in two points from command line and outputs
+the linear equation.
+'''
+
 point1 = raw_input('enter first coordinate:')
 point2 = raw_input('enter second coordinate:')
 
